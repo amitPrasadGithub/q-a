@@ -6,4 +6,8 @@ public class Hello {
 	public int lengthOfString(String str) {
 		return 0;
 	}
+
+	public void doProcess() {
+
+	}
 }
